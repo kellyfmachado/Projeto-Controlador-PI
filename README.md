@@ -20,7 +20,7 @@ Seguiu-se as seguintes etapas:
 
 8 - Implementação do controlador;
 
-9 - Análise dos resultados;
+9 - Análise dos resultados.
 
 ![Planta Pronta](https://github.com/kellyfmachado/Projeto---Controlador-PI/assets/134961117/c250b579-cdf8-4ff5-ad95-c4241d2d8081)
 ![Resultado do Controlador](https://github.com/kellyfmachado/Projeto---Controlador-PI/assets/134961117/e15a21b0-9622-49e2-8b2f-bb53ce823a3b)
